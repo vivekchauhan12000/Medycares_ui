@@ -45,7 +45,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
                 <ShoppingCart />
               </Badge>
             </IconButton>
-            <Button className={classes.emptyButton} size="large" type="button" variant="contained" color="secondary">Upload Prescription</Button>
+            <Button className={classes.emptyButton} size="small" type="button" variant="contained" color="secondary">Prescription</Button>
           </div>
           )}
         </Toolbar>
