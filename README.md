@@ -1,3 +1,3 @@
 # Medycares_ui
 
-## UPDATING SOON
+## project abandoned by client
